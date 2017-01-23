@@ -1,0 +1,11 @@
+[
+  {
+    "providerName": "BitGo Wallet Provider",
+    "url": "https://www.bitgo.com/",
+    "key": "038ef4a121bcaf1b1f175557a12896f8bc93b095e84817f90e9a901cd2113a8202"
+  }, {
+    "providerName": "BitGo Wallet",
+    "url": "https://www.bitgo.com/",
+    "key": "0010"
+  }
+]
