@@ -186,7 +186,6 @@ describe('Blocks', function() {
       log: sinon.stub(),
       services: {
         bitcoind: {
-          getRawBlock: stub,
           getBlockHeader: function(hash, callback) {
             callback(null, blockIndexes[hash]);
           },

@@ -51,15 +51,6 @@ The unspent outputs format now has `satoshis` and `height`:
 ```
 The `timestamp` property will only be set for unconfirmed transactions and `height` can be used for determining block order. The `confirmationsFromCache` is nolonger set or necessary, confirmation count is only cached for the time between blocks.
 
-There is a new `GET` endpoint or raw blocks at `/rawblock/<blockHash>`:
-
-Response format:
-```
-{
-  "rawblock": "blockhexstring..."
-}
-```
-
 There are a few changes to the `GET` endpoint for `/addr/[:address]`:
 
 - The list of txids in an address summary does not include orphaned transactions
@@ -142,20 +133,6 @@ This would return:
 }
 ```
 which is the hash of the Genesis block (0 height)
-
-
-### Raw Block
-```
-  /insight-api/rawblock/[:blockHash]
-  /insight-api/rawblock/[:blockHeight]
-```
-
-This would return:
-```
-{
-  "rawblock":"blockhexstring..."
-}
-```
 
 ### Block Summaries
 
