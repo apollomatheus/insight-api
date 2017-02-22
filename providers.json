@@ -1,11 +1,13 @@
 [
   {
-    "providerName": "BitGo Wallet Provider",
+    "name": "CME",
     "url": "https://www.bitgo.com/",
-    "key": "038ef4a121bcaf1b1f175557a12896f8bc93b095e84817f90e9a901cd2113a8202"
+    "pubkey": "038ef4a121bcaf1b1f175557a12896f8bc93b095e84817f90e9a901cd2113a8202",
+    "keyid": 1
   }, {
-    "providerName": "BitGo Wallet",
+    "name": "BitGo",
     "url": "https://www.bitgo.com/",
-    "key": "0010"
+    "pubkey": "025ceeba2ab4a635df2c0301a3d773da06ac5a18a7c3e0d09a795d7e57d233edf1",
+    "keyid": 65536
   }
 ]

@@ -1,7 +1,22 @@
 [
   {
-    "validatorName": "BitGo Co.",
+    "name": "BitGo 1",
     "url": "https://www.bitgo.com/",
-    "key": "000000000000000000000000000000000000000000000000000000000000000000"
+    "key": "035f5103852bd7d9c9c28e44caf1f7188941e16295062ca4c89928a8ccff993cd3"
+  },
+  {
+    "name": "BitGo 2",
+    "url": "https://www.bitgo.com/",
+    "key": "0265de49399e78020026219492e2a6e1a41e93591b87220ae8a2f3ebf3473dbeef"
+  },
+  {
+    "name": "BitGo 3",
+    "url": "https://www.bitgo.com/",
+    "key": "039cb94c99c4700918250c40fa35b7fa0a75a967c9366aa19b8fc354373368beef"
+  },
+  {
+    "name": "BitGo 4",
+    "url": "https://www.bitgo.com/",
+    "key": "031337ab09070254638075c7b59643dce2d60c5260bf5841d2f8cc6f75f6790d4e"
   }
 ]
