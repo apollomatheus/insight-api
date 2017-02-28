@@ -1,13 +1,42 @@
 [
   {
-    "name": "CME",
+    "name": "CME 1",
     "url": "https://www.bitgo.com/",
     "pubkey": "038ef4a121bcaf1b1f175557a12896f8bc93b095e84817f90e9a901cd2113a8202",
     "keyid": 1
   }, {
-    "name": "BitGo",
+    "name": "CME 2",
     "url": "https://www.bitgo.com/",
     "pubkey": "025ceeba2ab4a635df2c0301a3d773da06ac5a18a7c3e0d09a795d7e57d233edf1",
     "keyid": 65536
+  }, {
+    "name": "CME 3",
+    "url": "https://www.bitgo.com/",
+    "pubkey": "0265de49399e78020026219492e2a6e1a41e93591b87220ae8a2f3ebf3473dbeef"
+  }, {
+    "name": "CME 4",
+    "url": "https://www.bitgo.com/",
+    "pubkey": "031337ab09070254638075c7b59643dce2d60c5260bf5841d2f8cc6f75f6790d4e"
+  }, {
+    "name": "CME 5",
+    "url": "https://www.bitgo.com/",
+    "pubkey": "035f5103852bd7d9c9c28e44caf1f7188941e16295062ca4c89928a8ccff993cd3"
+  }, {
+    "name": "CME 6",
+    "url": "https://www.bitgo.com/",
+    "pubkey": "039cb94c99c4700918250c40fa35b7fa0a75a967c9366aa19b8fc354373368beef"
+  }, {
+    "name": "CME 7",
+    "url": "https://www.bitgo.com/",
+    "pubkey": "023d9186bf1f312a0ba9f3a43170c49b0612d7687107fbd839887cd8dcbd3e667c"
+  }, {
+    "name": "CME 8",
+    "url": "https://www.bitgo.com/",
+    "pubkey": "037334a4e8aea91bce5e48d75cdd2852c31b77ab9a2549bebc0be3e3f5116e53c8"
+  }, {
+    "name": "CME 9",
+    "url": "https://www.bitgo.com/",
+    "pubkey": "02afe7612219a5c8d86c646eaeda166b9c518a6989a7279dd272286e4a5e920521"
   }
+
 ]
