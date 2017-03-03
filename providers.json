@@ -1,6 +1,6 @@
 [
   {
-    "name": "CME 1",
+    "name": "BitGo",
     "url": "https://www.bitgo.com/",
     "pubkey": "038ef4a121bcaf1b1f175557a12896f8bc93b095e84817f90e9a901cd2113a8202",
     "keyid": 1
@@ -37,6 +37,9 @@
     "name": "CME 9",
     "url": "https://www.bitgo.com/",
     "pubkey": "02afe7612219a5c8d86c646eaeda166b9c518a6989a7279dd272286e4a5e920521"
-  }
-
+  }, {
+    "name": "TRM",
+    "url": "https://www.bitgo.com/",
+    "pubkey": "0357604c5e0859cb08a3f51b6a0d4920c689fca7ba12d98c72e52675c7e4003738"
+    }
 ]
