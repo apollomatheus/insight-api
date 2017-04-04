@@ -1,10 +1,10 @@
 [{
-  "name": "BitGo",
+  "name": "CME",
   "url": "https://www.bitgo.com/",
   "pubkey": "025ceeba2ab4a635df2c0301a3d773da06ac5a18a7c3e0d09a795d7e57d233edf1",
   "keyid": 1
 },{
-  "name": "CME",
+  "name": "BitGo",
   "url": "https://www.bitgo.com/",
   "pubkey": "038ef4a121bcaf1b1f175557a12896f8bc93b095e84817f90e9a901cd2113a8202",
   "keyid": 2
@@ -48,5 +48,5 @@
 }, {
   "name": "TRM issuance key 1",
   "url": "https://www.bitgo.com/",
-  "pubkey": "03afc7451d6d516a54954fb4cee4865a66c300958795a7eade2483438a615e077d"
+  "pubkey": "03273dd52713bb7e48355251049e1016ca23b71fd84c9250c21c0e536d0f580588"
 }]
