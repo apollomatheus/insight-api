@@ -1,9 +1,9 @@
 [{
-  "name": "TRM",
+  "name": "The Royal Mint",
   "url": "http://www.royalmint.com/",
   "pubkey": "0298e7358757d3e78da04b2c4db32f7dd8b5e76f5ae4184d47100587f33f906a87"
 },{
-  "name": "TRM",
+  "name": "The Royal Mint",
   "url": "http://www.royalmint.com/",
   "pubkey": "020825bd899f7bcc9b2e9035e4169dbe81e651c9157e5af72c4df7ae9fb43bb838"
 },{
@@ -11,11 +11,11 @@
   "url": "https://rmg.bitgo.com/",
   "pubkey": "024b175f51c0b65b159e52f068f1e8b24e487ec9723967268a41ea952f3e2ed30c"
 },{
-  "name": "TRM",
+  "name": "The Royal Mint",
   "url": "http://www.royalmint.com/",
   "pubkey": "02a622eafc9a8b0efb6b1963ab9c8f48c68b580397321fef664ac809155a6f7a61"
 },{
-  "name": "TRM",
+  "name": "The Royal Mint",
   "url": "http://www.royalmint.com/",
   "pubkey": "037c58e3c9a586d7a84ac691c675b16d846ca1ab7571ade8f8baf4f72320684a79"
 },{
@@ -23,7 +23,7 @@
   "url": "https://rmg.bitgo.com/",
   "pubkey": "033fa570adba7413fbe0fb90f358e823b003371c47dd4e3769028e122f40ea7496"
 },{
-  "name": "TRM",
+  "name": "The Royal Mint",
   "url": "http://www.royalmint.com/",
   "pubkey": "02ff5bac72f8a9dcefeb9993260bbccfa3b7a9db3bd8d26e589b4ecac35cc28adb"
 }]
