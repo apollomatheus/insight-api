@@ -61,7 +61,7 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib": "https://github.com/BitGo/bitcore-lib#2caa8dbfe5588e1b0b08349542031284f1750e9d",
+    "bitcore-lib": "https://github.com/BitGo/bitcore-lib#fe87c5b8a101b1d397a240db6ec7aba6ade1679e",
     "bitcore-message": "^1.0.1",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
